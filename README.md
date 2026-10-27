@@ -1,8 +1,8 @@
-<img src="img/banner.svg" width="100%" alt="Phoenix POS · Punto de venta para comercios · Rápido, liviano y confiable">
+<img src="img/banner.svg" width="100%" alt="Phoenix POS · Punto de venta para pequeños negocios y empresas · Rápido, liviano y confiable">
 
 <br>
 
-Sistema de punto de venta para minimercados, tiendas y comercios. Rápido, liviano y pensado para el día a día del negocio.
+Sistema de punto de venta para pequeños negocios y empresas. Rápido, liviano y pensado para el día a día.
 
 ![Inicio](capturas/inicio.png)
 
@@ -13,7 +13,7 @@ Sistema de punto de venta para minimercados, tiendas y comercios. Rápido, livia
   <img src="img/titulo-sobre.svg" alt="Sobre el proyecto">
 </picture>
 
-Phoenix POS es un sistema de punto de venta de escritorio que desarrollo y mantengo en **Phoenix TS**. Lo usan comercios reales: está hecho para cobrar rápido, controlar el stock sin complicaciones y funcionar bien incluso en computadoras de pocos recursos.
+Phoenix POS es un sistema de punto de venta de escritorio que desarrollo y mantengo en **Phoenix TS**. Lo usan negocios reales: está hecho para cobrar rápido, controlar el stock sin complicaciones y funcionar bien incluso en computadoras de pocos recursos.
 
 > El código fuente es privado. Este repositorio muestra el producto.
 
