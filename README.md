@@ -75,3 +75,7 @@ Phoenix POS es un sistema de punto de venta de escritorio que desarrollo y mante
 </picture>
 
 Software propietario. © 2026 Hector Melgarejo, Phoenix TS. Todos los derechos reservados.
+
+<br>
+
+<img src="img/pie.svg" width="100%" alt="Hecho en Phoenix TS · 2026">
