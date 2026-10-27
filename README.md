@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="capturas/logo.png" width="120" alt="Phoenix POS">
-</p>
-
-<h1 align="center">Phoenix POS</h1>
+<img src="banner.png" width="100%" alt="Phoenix POS · Punto de venta para minimercados · Rápido, liviano y confiable">
 
 <p align="center">
   Sistema de punto de venta para minimercados y tiendas de barrio.<br>
@@ -67,3 +63,5 @@ computadoras de pocos recursos.
 ## Licencia
 
 Software propietario. © 2026 Hector Melgarejo, Phoenix TS. Todos los derechos reservados.
+
+<img src="pie.png" width="100%" alt="">
