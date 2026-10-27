@@ -4,7 +4,7 @@
 
 Sistema de punto de venta para pequeños negocios y empresas. Rápido, liviano y pensado para el día a día.
 
-![Inicio](capturas/inicio.png)
+![Phoenix POS en uso: una venta con frecuentes, lector y buscador, el cobro con vuelto y el ticket; luego Inventario y Reportes](capturas/demo.gif)
 
 <br>
 
@@ -41,6 +41,10 @@ Phoenix POS es un sistema de punto de venta de escritorio que desarrollo y mante
   <source media="(prefers-color-scheme: dark)" srcset="img/titulo-capturas-oscuro.svg">
   <img src="img/titulo-capturas.svg" alt="Capturas">
 </picture>
+
+**Inicio**
+
+![Inicio](capturas/inicio.png)
 
 **Vender**
 
