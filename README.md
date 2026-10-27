@@ -1,23 +1,28 @@
 <img src="img/banner.svg" width="100%" alt="Phoenix POS · Punto de venta para comercios · Rápido, liviano y confiable">
 
-<p align="center">
-  <img src="img/insignias.svg" alt="C++17 · Qt 6 · SQLite · Supabase · Windows 10 y 11 · Versión 1.0.6">
-</p>
+<br>
 
-<p align="center">
-  Sistema de punto de venta para minimercados, tiendas y comercios.<br>
-  Rápido, liviano y pensado para el día a día del negocio.
-</p>
+Sistema de punto de venta para minimercados, tiendas y comercios. Rápido, liviano y pensado para el día a día del negocio.
 
-<img src="img/captura-inicio.png" width="100%" alt="Inicio">
+![Inicio](capturas/inicio.png)
 
-<img src="img/titulo-sobre.svg" alt="Sobre el proyecto">
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-sobre-oscuro.svg">
+  <img src="img/titulo-sobre.svg" alt="Sobre el proyecto">
+</picture>
 
 Phoenix POS es un sistema de punto de venta de escritorio que desarrollo y mantengo en **Phoenix TS**. Lo usan comercios reales: está hecho para cobrar rápido, controlar el stock sin complicaciones y funcionar bien incluso en computadoras de pocos recursos.
 
 > El código fuente es privado. Este repositorio muestra el producto.
 
-<img src="img/titulo-funciones.svg" alt="Funciones">
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-funciones-oscuro.svg">
+  <img src="img/titulo-funciones.svg" alt="Funciones">
+</picture>
 
 | | |
 |---|---|
@@ -30,24 +35,43 @@ Phoenix POS es un sistema de punto de venta de escritorio que desarrollo y mante
 | **Datos seguros** | Copias de seguridad automáticas, recuperación de una base dañada y sincronización con la nube. |
 | **Interfaz** | Modo claro y oscuro, textos grandes y legibles, adaptada a distintas escalas de pantalla. |
 
-<img src="img/titulo-capturas.svg" alt="Capturas">
+<br>
 
-<img src="img/captura-ventas.png" width="100%" alt="Ventas">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-capturas-oscuro.svg">
+  <img src="img/titulo-capturas.svg" alt="Capturas">
+</picture>
 
-<img src="img/captura-inventario.png" width="100%" alt="Inventario">
+**Vender**
 
-<img src="img/captura-reportes.png" width="100%" alt="Reportes">
+![Ventas](capturas/ventas.png)
 
-<img src="img/titulo-tecnologia.svg" alt="Tecnología">
+**Inventario**
+
+![Inventario](capturas/inventario.png)
+
+**Reportes**
+
+![Reportes](capturas/reportes.png)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-tecnologia-oscuro.svg">
+  <img src="img/titulo-tecnologia.svg" alt="Tecnología">
+</picture>
 
 - **C++17** y **Qt 6 (Widgets)** para una aplicación nativa, rápida y de bajo consumo.
 - **SQLite** como base local, con migraciones versionadas e integridad verificada al arrancar.
 - **Supabase (PostgreSQL)** para la sincronización en la nube, con conexión cifrada.
-- Sistema de licencias por equipo e instalador **.msi**.
+- Sistema de licencias por equipo e instalador **.msi** para Windows 10 y 11.
 - Batería de pruebas automáticas: funcionales, de interfaz, de rendimiento con bases de 100.000 productos y 500.000 ventas, y de resistencia ante cortes de luz y disco lleno.
 
-<img src="img/titulo-licencia.svg" alt="Licencia">
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/titulo-licencia-oscuro.svg">
+  <img src="img/titulo-licencia.svg" alt="Licencia">
+</picture>
 
 Software propietario. © 2026 Hector Melgarejo, Phoenix TS. Todos los derechos reservados.
-
-<img src="img/pie.svg" width="100%" alt="">
